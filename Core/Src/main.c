@@ -178,7 +178,7 @@ int main(void)
   /* USER CODE BEGIN 2 */
   char data1[50];     /* data1 is for writing the data into  flash memory*/
   memset(data1,0,sizeof(data1));
-  strcpy(data1,"Hello Abel!");
+  strcpy(data1,"This is a data persistence test.");
 
   flashSave((uint8_t*)write_data); // 8-bit pointer to point to the address
 
