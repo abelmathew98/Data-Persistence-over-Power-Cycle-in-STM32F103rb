@@ -13,4 +13,4 @@
  
 
  ##Acknowledgent and Credits
- I have followed the idea laid out by Viktor Vano(https://github.com/viktorvano) .Althugh I've made a few changes here and there,the sole credit goes to him. Check him out too !
+ I have followed the idea laid out by [Viktor Vano](https://github.com/viktorvano) .Althugh I've made a few changes here and there,the sole credit goes to him. Check him out too !
